@@ -11,7 +11,11 @@ This is a simple web application that allows users to generate custom color pale
 
 ## Usage
 
-1. Open the https://bibashjaprel.github.io/Color-Palette-Generator/ link in a web browser.
+1. Open the link in a web browser.
+```bash
+https://bibashjaprel.github.io/Color-Palette-Generator/
+```
+ 
 2. Use the color pickers to select primary, secondary, accent, and background colors.
 3. The selected colors will be displayed as colored boxes below the color pickers.
 4. Experiment with different color combinations until you find the perfect palette for your project.
